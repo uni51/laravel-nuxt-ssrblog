@@ -1,0 +1,17 @@
+{
+    "name": "ssrblog",
+    "version": "1.0.0",
+    "description": "ssr blog web app",
+    "author": "me",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "nuxt": "^2.10.2"
+    },
+    "devDependencies": {}
+}
